@@ -1,1 +1,28 @@
+Git Ignore file
 https://elanderson.net/2016/09/add-git-ignore-to-existing-visual-studio-project/?subscribe=success#blog_subscription-2
+
+Keeping Secrets Out of Source Control
+https://www.humankode.com/asp-net-core/asp-net-core-configuration-best-practices-for-keeping-secrets-out-of-source-control
+
+Repository Pattern and Unit of Work
+https://www.c-sharpcorner.com/article/repository-and-unitofwork-pattern-part-1/
+
+DateTime Object
+https://stackoverflow.com/questions/24245523/getting-the-first-and-last-day-of-a-month-using-a-given-datetime-object
+
+Default Identity UI
+https://www.stevefenton.co.uk/2019/09/using-net-core-identity-without-the-standard-pages/
+
+Setting the LoginPath not working in Asp.Net Core
+https://github.com/aspnet/Identity/issues/1414
+
+IIS Hosting
+https://success.trendmicro.com/solution/1098768-cannot-read-configuration-file-appears-on-http-error-500-19-when-accessing-the-worry-free-busin
+
+BackupDatabase before Automatic Migrations
+
+Social Media Icons
+https://www.exclaimer.com/email-signature-handbook/10078-social-media-icons-email-signatures
+
+HTTP Status Code For update and delete
+https://stackoverflow.com/questions/2342579/http-status-code-for-update-and-delete

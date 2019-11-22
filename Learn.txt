@@ -1,0 +1,6 @@
+https://www.w3resource.com/csharp-exercises/string/csharp-string-exercise-13.php
+
+https://www.c-sharpcorner.com/article/repository-and-unitofwork-pattern-part-1/
+
+Pie Chart Criticism
+https://www.stevefenton.co.uk/2011/10/a-great-example-of-a-terrible-pie-chart/
